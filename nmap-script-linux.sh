@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 tempo=$(date +"%d_%m_%Y-%H:%M:%S")
 
 # Validando se o campo esta vazio
@@ -57,5 +57,5 @@ done
 dur=$(echo "$(date +%s.%N) - $Inicio" | bc);
 echo ""
 echo "Arquivo utilizado: $2"
-printf "Tempo=%.3f\n" $dur
+printf "Tempo de execucao do script: %.3f s\n" $dur
 fi
