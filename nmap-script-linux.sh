@@ -29,7 +29,7 @@ cat $2 | while read host; do
 
      STATUS=$(nmap -P0 -p $1 $host | grep tcp | awk '{print $2}')
 
-     if [ $STATUS == open ]
+     if [ $STATUS = open ]
      then
                 echo "Servidor: $host | Porta: $1 | Status: ABERTA"
                 echo "Data e hora da varredura: $tempo" >> /opt/scans/status-UP-$tempo.log
