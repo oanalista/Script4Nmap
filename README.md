@@ -2,7 +2,7 @@
 
 Bash script que utiiza o Nmap como base para a realização de port scans
 
-Sintaxe: ./portscan.sh <PORTA> <ARQUIVO COM OS IPs>
+Sintaxe: ./portscan.sh PORTA ARQUIVO-COM-OS-IPs
 
 # Requisitos
 
