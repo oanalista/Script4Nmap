@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 tempo=$(date +"%d_%m_%Y-%H:%M:%S")
 
 # Validando se o campo esta vazio
