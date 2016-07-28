@@ -2,6 +2,14 @@
 
 Bash script que utiiza o Nmap como base para a realização de port scans
 
+No Linux:
+
+git clone https://github.com/oanalista/Script4Nmap.git
+
+Para clonar o repositório do script em outros sistemas operacionais, consulte o endereço abaixo:
+
+https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git
+
 Sintaxe: ./script4nmap.sh PORTA ARQUIVO-COM-OS-IPs
 
 # Requisitos
