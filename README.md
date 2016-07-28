@@ -1,4 +1,4 @@
-# nmap-script-linux
+# Script4Nmap
 
 Bash script que utiiza o Nmap como base para a realização de port scans
 
