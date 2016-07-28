@@ -5,7 +5,7 @@ tempo=$(date +"%d_%m_%Y-%H:%M:%S")
 if [ -z $1 ]  || [ -z $2 ]
 then
    echo "Favor informar o numero da porta e a lista de IPs!"
-   echo "Use ./portscan.sh <PORTA> <ARQUIVO COM OS IPs>"
+   echo "Use ./script4nmap.sh <PORTA> <ARQUIVO COM OS IPs>"
 else
 
 clear
