@@ -10,7 +10,9 @@ Para clonar o repositório do script em outros sistemas operacionais, consulte o
 
 https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git
 
-Sintaxe: ./script4nmap.sh PORTA ARQUIVO-COM-OS-IPs
+Sintaxe:
+
+./script4nmap.sh PORTA ARQUIVO-COM-OS-IPs
 
 # Requisitos
 
