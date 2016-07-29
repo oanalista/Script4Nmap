@@ -6,7 +6,7 @@ No Linux:
 
 git clone https://github.com/oanalista/Script4Nmap.git
 
-Para clonar o repositório do script em outros sistemas operacionais, consulte o endereço abaixo:
+Para maiores informações de como clonar o repositório do script em outros sistemas operacionais, consulte o endereço abaixo:
 
 https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git
 
