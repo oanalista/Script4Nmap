@@ -1,6 +1,6 @@
 # Script4Nmap
 
-Bash script que utiiza o Nmap como base para a realização de port scans
+Desenvolvido juntamente com Washington Neris Santana (wneris@gmail.com), o Script4Nmap é um shell script que utiiza o Nmap como base para a realização de port scans
 
 No Linux:
 
